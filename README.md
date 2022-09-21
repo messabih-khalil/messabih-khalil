@@ -29,7 +29,6 @@
 <img align="left" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
 <img align="left" width="100px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" width="100px" style="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-<br />
 <img align="left" width="100px" style="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" width="100px" style="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
 <img align="left" width="100px" style="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/>
