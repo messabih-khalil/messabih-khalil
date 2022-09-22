@@ -44,9 +44,3 @@
   </ol>
 </div>
 
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=messabih-khalil&show_icons=true&locale=en" alt="messabih-khalil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messabih-khalil&" alt="messabih-khalil" /></p>
