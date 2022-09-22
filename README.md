@@ -2,8 +2,7 @@
 - 🌱 I’m currently learning **Rust and Tauri**
 
 - 📫 How to reach me **msbih.khalil@gmail.com**
-<br />
-<br />
+
 <h2>📝 Language and Tools</h2>
 
 <br />
@@ -11,7 +10,8 @@
 <img align="left" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img align="left" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:10px; ">
+
 <img width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
 <img  width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg"/>
 <img  width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
@@ -36,9 +36,17 @@
 
 <h2>👨‍💻 My latest Projects</h2>
 
-<div style="flex">
-  <a class="project-box" style="display:flex; align-items:center; justify-content:center; height:200px; width:400px;" href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png" style="height:100%; width:100%; object-fit: cover;" />
-  </a>
+<div>
+  <ol style="padding-right:.5rem;">
+    <li>Taskite : <a href="https://github.com/messabih-khalil/taskite" target=blank>Preview</a></li>
+    <li>Pokecss : <a href="https://pokecss.vercel.app/" target=blank>Preview</a></li>
+    
+  </ol>
 </div>
 
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=messabih-khalil&show_icons=true&locale=en" alt="messabih-khalil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messabih-khalil&" alt="messabih-khalil" /></p>
