@@ -8,11 +8,11 @@
 <div style="padding-right:1rem;"> 
 <h4>Frontend : </h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,svelte,sass,bootstrap,netlify,xd,ps,ai">
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,svelte,sass,bootstrap,xd,ps,ai">
 
 <h4>Backend : </h4>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,sqlite,mysql,postgres,mongodb,bash,vim,docker">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,sqlite,mysql,postgres,mongodb,bash,vim,docker">
 </div>
 <h1>👨‍💻 My latest Projects</h1>
 
