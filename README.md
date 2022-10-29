@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aladin</h1>
-- 🌱 I’m currently learning **Rust and Tauri**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me **msbih.khalil@gmail.com**
 
