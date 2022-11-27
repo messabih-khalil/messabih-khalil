@@ -8,7 +8,7 @@
 <div style="padding-right:1rem;"> 
 <h4>Frontend : </h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,svelte,sass,bootstrap,xd,ps,ai">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,vite,svelte,sass,bootstrap,tailwind,xd,ps,ai">
 
 <h4>Backend : </h4>
 
