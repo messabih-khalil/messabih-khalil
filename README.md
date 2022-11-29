@@ -22,6 +22,7 @@
     <li>Pokecss : <a href="https://pokecss.vercel.app/" target=blank>Preview</a></li>
     <li>BigO tool : <a href="https://bigotool.vercel.app/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/BigO-tool" target=blank>Preview</a></li>
     <li>SorterC tool : <a href="https://sorterc.herokuapp.com/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/SorterC" target=blank>Preview</a></li>
+    <li>gauss cli package : <a href="https://pypi.org/project/gauss-cli/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/gaussCli" target=blank>Preview</a></li>
     
   </ol>
 </div>
