@@ -12,7 +12,7 @@
 
 <h4>Backend : </h4>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,sqlite,mysql,postgres,mongodb,bash,vim,docker">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,nodejs,express,sqlite,mysql,postgres,mongodb,bash,vim,docker">
 </div>
 <h1>👨‍💻 My latest Projects</h1>
 
