@@ -11,6 +11,12 @@
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,nodejs,express,sqlite,mysql,postgres,mongodb,bash,vim,docker">
 </div>
+
+<h4>Desktop : </h4>
+
+<img src="https://skillicons.dev/icons?i=electron">
+</div>
+
 <h1>👨‍💻 My latest Works</h1>
 
 <div>
