@@ -27,6 +27,7 @@
     <li>SorterC tool : <a href="https://sorterc.herokuapp.com/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/SorterC" target=blank>Preview</a></li>
     <li>gauss cli package : <a href="https://pypi.org/project/gauss-cli/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/gaussCli" target=blank>Preview</a></li>
     <li>Univpaper : <a href="https://github.com/messabih-khalil/univpaper" target=blank>Preview</a></li>
+    <li>Patient-crm : <a href="https://github.com/messabih-khalil/patient-crm" target=blank>Preview</a></li>
   </ol>
 </div>
 
