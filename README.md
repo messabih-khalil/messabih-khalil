@@ -33,6 +33,6 @@
   </ol>
   
   
-  https://github.com/messabih-khalil/tabib-app
+ 
 </div>
 
