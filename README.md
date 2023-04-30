@@ -6,7 +6,7 @@
 - 📚 I'm currently reading The Secret of Life , by **mustafa mahmod**
 - 🚀 I love spaceships
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 <div style="display:flex;">
