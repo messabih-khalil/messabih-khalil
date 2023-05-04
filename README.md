@@ -27,7 +27,7 @@
 <div style="padding-right:1rem;"> 
 <h4>Frontend : </h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,vite,svelte,sass,bootstrap,tailwind,xd,ps,ai">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,vue,nuxt,vite,svelte,sass,bootstrap,tailwind,xd,ps,ai,figma">
 
 <h4>Backend : </h4>
 
