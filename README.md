@@ -2,8 +2,11 @@
 <h3 align="center">A passionate soccer player from Algeria</h3>
 
 - 🌱 I’m currently learning **Tensorflow , Nodejs Clustering , pm2**
+
 - ⚽ I play as a **LW** or **SS**
+
 - 📚 I'm currently reading The Secret of Life , by **mustafa mahmod**
+
 - 🚀 I love spaceships
 
 
