@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm messabih</h1>
 <h3 align="center">A passionate soccer player from Algeria</h3>
 
-- 🌱 I’m currently learning **Tensorflow , Nodejs Clustering , pm2**
+- 🌱 I’m currently learning **Pytorch , Nodejs Clustering , pm2 , tRPC**
 
 - ⚽ I play as a **LW** or **SS**
 
