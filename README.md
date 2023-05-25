@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm messabih</h1>
-<h3 align="center">A passionate soccer player from Algeria</h3>
 
 - 🌱 I’m currently learning **Pytorch , Nodejs Clustering , pm2 , T3 Stack**
 
-- ⚽ I play as a **LW** or **SS**
-
-- 📚 I'm currently reading The Secret of Life , by **mustafa mahmod**
-
-- 🚀 I love spaceships
+- 📚 I'm currently reading #
 
 
 <p align="left">
