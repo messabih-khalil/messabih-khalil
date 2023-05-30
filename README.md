@@ -40,7 +40,7 @@
 <h1>👨‍💻 My latest Works</h1>
 
 <div>
-<!--   <ol style="padding-right:.5rem;">
+  <ol style="padding-right:.5rem;">
     <li>Taskite : <a href="https://github.com/messabih-khalil/taskite" target=blank>Preview</a></li>
     <li>Pokecss : <a href="https://pokecss.vercel.app/" target=blank>Preview</a></li>
     <li>BigO tool : <a href="https://bigotool.vercel.app/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/BigO-tool" target=blank>Preview</a></li>
@@ -50,16 +50,9 @@
     <li>Patient-crm : <a href="https://github.com/messabih-khalil/patient-crm" target=blank>Preview</a></li>
     <li>Tabib Mobile Application : <a href="https://github.com/messabih-khalil/tabib-app" target=blank>Preview</a></li>
     
-  </ol> -->
+  </ol>
   
-  <img src="https://i.postimg.cc/MX2V757B/image.png"/>
-  <img src="https://i.postimg.cc/QCLJmjsV/image.png"/>
-   <img src="https://i.postimg.cc/MX2V757B/image.png"/>
-  <img src="https://i.postimg.cc/QCLJmjsV/image.png"/>
-   <img src="https://i.postimg.cc/MX2V757B/image.png"/>
-  <img src="https://i.postimg.cc/QCLJmjsV/image.png"/>
-   <img src="https://i.postimg.cc/MX2V757B/image.png"/>
-  <img src="https://i.postimg.cc/QCLJmjsV/image.png"/>
+ 
   
  
 </div>
