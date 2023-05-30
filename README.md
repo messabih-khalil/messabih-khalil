@@ -8,17 +8,8 @@
 <p align="left">
 </p>
 <div style="display:flex;">
-  <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=messabih-khalil&show_icons=true&locale=en" alt="messabih-khalil" /></span>
   <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messabih-khalil&" alt="messabih-khalil" /></span>
 </div>
-
-
-
-
-
-
-
-
 
 ## 📝 Language and Tools
 
@@ -51,9 +42,6 @@
     <li>Tabib Mobile Application : <a href="https://github.com/messabih-khalil/tabib-app" target=blank>Preview</a></li>
     
   </ol>
-  
- 
-  
  
 </div>
 
