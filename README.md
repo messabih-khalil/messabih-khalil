@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm messabih</h1>
 
-- 🌱 I’m currently learning **Pytorch , Nodejs Clustering , pm2 , T3 Stack , github action**
+- 🌱 I’m currently learning 
+  <ul>
+  
+    <li>Clustering With Node Js</li>
+  
+  <li>pm2</li>
+  <li>T3 Stack</li>
+  <li><s>Grpc</s></li>
+  <li>github action</li>
+  <s>lor</s>
+  </ul>
 
 - 📚 I'm currently reading #
 
