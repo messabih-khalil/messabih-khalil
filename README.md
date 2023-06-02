@@ -9,7 +9,7 @@
   <li>T3 Stack</li>
   <li><s>Grpc</s></li>
   <li>github action</li>
-  <s>lor</s>
+
   </ul>
 
 - 📚 I'm currently reading #
