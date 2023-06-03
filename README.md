@@ -43,41 +43,19 @@
 <div>
   
 
-<span>
-  <a href="https://pokecss.vercel.app/">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815322/gitcards/qlo2oxjbpsqcfpvoywlv.png" alt="project image"/>
-  </a>
-<span>
-  
   <span>
-  <a href="https://github.com/messabih-khalil/univpaper">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815456/gitcards/lh9okgxtdha0dc47rp4y.png" alt="project image"/>
-  </a>
-<span>
-
-<span>
-  <a href="https://github.com/messabih-khalil/BigO-tool">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815660/gitcards/dwd7eslusftjal5laybc.png" alt="project image"/>
-  </a>
-<span>
-  <span>
-  <a href="https://github.com/messabih-khalil/SorterC">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815956/gitcards/cxuiqbqrswcpouq0drcz.png" alt="project image"/>
-  </a>
-<span>
-  <span>
-  <a href="https://github.com/messabih-khalil/gaussCli">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816061/gitcards/po0ogirp7ljrfei6cfzd.png" alt="project image"/>
-  </a>
-<span>
-  <span>
-  <a href="https://github.com/messabih-khalil/patient-crm">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816164/gitcards/rs0dgmk5ei4h9iqepumh.png" alt="project image"/>
+  <a href="https://github.com/messabih-khalil/tabib-app">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816605/gitcards/kieqdlikmjbxjljqycwr.png" alt="project image"/>
   </a>
 <span>
   <span>
   <a href="https://github.com/messabih-khalil/tabib-app">
-    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816273/gitcards/azqrhjmkdw22f2swz3t3.png" alt="project image"/>
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816605/gitcards/kieqdlikmjbxjljqycwr.png" alt="project image"/>
+  </a>
+<span>
+  <span>
+  <a href="https://github.com/messabih-khalil/tabib-app">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816605/gitcards/kieqdlikmjbxjljqycwr.png" alt="project image"/>
   </a>
 <span>
  
