@@ -41,17 +41,45 @@
 <h1>👨‍💻 My latest Works</h1>
 
 <div>
-  <ol style="padding-right:.5rem;">
-    <li>Taskite : <a href="https://github.com/messabih-khalil/taskite" target=blank>Preview</a></li>
-    <li>Pokecss : <a href="https://pokecss.vercel.app/" target=blank>Preview</a></li>
-    <li>BigO tool : <a href="https://bigotool.vercel.app/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/BigO-tool" target=blank>Preview</a></li>
-    <li>SorterC tool : <a href="https://sorterc.herokuapp.com/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/SorterC" target=blank>Preview</a></li>
-    <li>gauss cli package : <a href="https://pypi.org/project/gauss-cli/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/gaussCli" target=blank>Preview</a></li>
-    <li>Univpaper : <a href="https://univpaper.vercel.app/" target=blank>Preview</a> | Source code : <a href="https://github.com/messabih-khalil/univpaper" target=blank>Preview</a></li>
-    <li>Patient-crm : <a href="https://github.com/messabih-khalil/patient-crm" target=blank>Preview</a></li>
-    <li>Tabib Mobile Application : <a href="https://github.com/messabih-khalil/tabib-app" target=blank>Preview</a></li>
-    
-  </ol>
+  
+
+<span>
+  <a href="https://pokecss.vercel.app/">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815322/gitcards/qlo2oxjbpsqcfpvoywlv.png" alt="project image"/>
+  </a>
+<span>
+  
+  <span>
+  <a href="https://github.com/messabih-khalil/univpaper">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815456/gitcards/lh9okgxtdha0dc47rp4y.png" alt="project image"/>
+  </a>
+<span>
+
+<span>
+  <a href="https://github.com/messabih-khalil/BigO-tool">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815660/gitcards/dwd7eslusftjal5laybc.png" alt="project image"/>
+  </a>
+<span>
+  <span>
+  <a href="https://github.com/messabih-khalil/SorterC">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685815956/gitcards/cxuiqbqrswcpouq0drcz.png" alt="project image"/>
+  </a>
+<span>
+  <span>
+  <a href="https://github.com/messabih-khalil/gaussCli">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816061/gitcards/po0ogirp7ljrfei6cfzd.png" alt="project image"/>
+  </a>
+<span>
+  <span>
+  <a href="https://github.com/messabih-khalil/patient-crm">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816164/gitcards/rs0dgmk5ei4h9iqepumh.png" alt="project image"/>
+  </a>
+<span>
+  <span>
+  <a href="https://github.com/messabih-khalil/tabib-app">
+    <img src="http://res.cloudinary.com/dzaexcnbp/image/upload/v1685816273/gitcards/azqrhjmkdw22f2swz3t3.png" alt="project image"/>
+  </a>
+<span>
  
 </div>
 
