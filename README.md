@@ -7,8 +7,9 @@
   
   <li>pm2</li>
   <li>T3 Stack</li>
+  <li>Travis CI</li>
   <li><s>Grpc</s></li>
-  <li>github action</li>
+  <li><s>github action</s>s</li>
 
   </ul>
 
