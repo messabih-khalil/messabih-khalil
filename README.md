@@ -13,9 +13,6 @@
 
   </ul>
 
-- 📚 I'm currently reading #
-
-
 <p align="left">
 </p>
 <div style="display:flex;">
