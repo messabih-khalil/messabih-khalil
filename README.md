@@ -5,9 +5,10 @@
   
     <li>Clustering With Node Js</li>
   
-  <li>pm2</li>
+  
   <li>T3 Stack</li>
   <li>Travis CI</li>
+  <li><s>pm2</s></li>
   <li><s>Grpc</s></li>
   <li><s>github action</s>s</li>
 
