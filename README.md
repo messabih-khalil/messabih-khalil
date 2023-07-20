@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm messabih</h1>
 
-- 🌱 I’m currently learning 
-  <ul>
-  
-    <li>Clustering With Node Js</li>
-  
-  
-  <li>T3 Stack</li>
-  <li>Travis CI</li>
-  <li><s>pm2</s></li>
-  <li><s>Grpc</s></li>
-  <li><s>github action</s>s</li>
-
-  </ul>
-
 <div style="display:flex;">
   <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messabih-khalil&" alt="messabih-khalil" /></span>
 </div>
