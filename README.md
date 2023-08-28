@@ -8,21 +8,15 @@
 
 
 
-## 📝 Language and Tools
+## 📝 Tools & Languages : 
 
 <div style="padding-right:1rem;"> 
-<h4>Frontend : </h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,vue,nuxt,vite,svelte,sass,bootstrap,tailwind,xd,ps,ai,figma">
 
-<h4>Backend : </h4>
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,nodejs,express,sqlite,mysql,postgres,mongodb,bash,vim,docker">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,pug,react,next,vue,svelte,redux,scss,tailwind,nodejs,express,django,mongo,postgres,sqlite,redis,dart,flutter,electron,figma,xd,ai,ps,githubactions,grafana,vim,docker,aws">
 </div>
 
-<h4>Desktop : </h4>
 
-<img src="https://skillicons.dev/icons?i=electron">
 </div>
 
 <h1>👨‍💻 My latest Works</h1>
