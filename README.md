@@ -13,7 +13,7 @@
 <div style="padding-right:1rem;"> 
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,pug,react,next,vue,svelte,redux,scss,tailwind,nodejs,express,django,mongo,postgres,sqlite,redis,dart,flutter,electron,figma,xd,ai,ps,githubactions,grafana,vim,docker,aws">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,pug,react,next,vue,svelte,redux,scss,tailwind,nodejs,express,django,mongo,postgres,sqlite,redis,dart,flutter,electron,figma,xd,ai,ps,githubactions,vim,docker,aws">
 </div>
 
 
